@@ -1,1 +1,1 @@
-TinDog Starting Files
+Example of my responsive web design
